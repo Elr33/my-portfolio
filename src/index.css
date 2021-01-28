@@ -1,11 +1,6 @@
+@import url("https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap");
 @import url("https://unpkg.com/@tailwindcss/typography@0.2.x/dist/typography.min.css");
 @import url("https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css");
-@import url("https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap");
-
-.cursive {
-  font-family: "Noto Serif", cursive;
-  font weight: 700;
-}
 
 .prose img {
   margin-left: auto;
@@ -14,5 +9,7 @@
 }
 
 .home-name {
-  font-size: 150px;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 55px;
+  color: #fff;
 }
